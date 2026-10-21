@@ -1,10 +1,10 @@
 # AR Ruler
 /*
-
 UnityとC#を使用して制作した、ARを活用した距離測定アプリケーションです。
-
 カメラを通して現実空間を認識し、ユーザーが指定した2つの地点間の距離を測定できるように実装しました。
 */
+## Source Code
+/*Assets/SampleProject/ARRuler/Script*/
 
 
 ## 1. プロジェクト概要
